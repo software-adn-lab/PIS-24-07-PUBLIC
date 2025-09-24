@@ -1,5 +1,5 @@
 # Integrantes
-Personas que conforman el equipo de investigación y que han contribuido directamente al desarrollo del estudio.
+Personas que conforman el equipo de investigación y que han contribuido directamente al desarrollo del estudio..
 ## Director
 ```dataview
 list
